@@ -1,4 +1,4 @@
-print("Hello from Github Actions!!)
+print("Hello from Github Actions!!")
 
 name = "Brishti"
 print (f"Welcome, {name}!")
